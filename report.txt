@@ -1,0 +1,17 @@
+Words: 15
+Unique: 15
+and       1
+coding    1
+hello     1
+i         1
+is        1
+like      1
+listening 1
+music     1
+my        1
+name      1
+python    1
+saad      1
+studying  1
+to        1
+with      1

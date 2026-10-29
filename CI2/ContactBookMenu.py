@@ -1,7 +1,6 @@
 contacts = {}
 
-answer=-1
-while answer!="0":
+while True:
     answer = input("choose what option you want to do: add(1), search(2), list(3), quit(0): ")
     if answer=="1":
       name = input("Name: ")
@@ -27,4 +26,3 @@ while answer!="0":
             print(f"{name}: {phone} / {email}")
             continue
     
-print(len(contacts), "contacts")
